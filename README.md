@@ -94,23 +94,6 @@ Services:
 - Backend: `http://localhost:4000`
 - PostgreSQL: `localhost:5432`
 
-## Phase 2 Roadmap
-
-- Add Prisma and PostgreSQL schema
-- Add signup and login
-- Hash passwords with bcrypt
-- Add JWT authentication
-- Save calculations to the database
-- Build a protected dashboard for saved estimates
-
-## Phase 3 Roadmap
-
-- Add deeper AWS region pricing
-- Add more instance families
-- Add monthly/yearly toggle persistence
-- Add comparison charts and pricing analytics
-- Add import/export for estimates
-
 ## Security Practices
 
 - Validate API inputs with Zod
